@@ -1,4 +1,4 @@
-print("Welcom op de tip calculator!")
+print("Welkom bij de tip calculator!")
 bedrag = float(input("Wat was de totale bedrag? $"))
 tip = int(input("Hoeveel procent tip wil je geven? 10 12 15 "))
 people =  int(input("Bedrag delen door hoeveel mensen? "))
